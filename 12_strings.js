@@ -8,7 +8,7 @@ console.log(friend)
 //console.log(myfriend)
 
 
-//Template Literals
+//Template Literals-->Template literals are literals delimited with backtick (`) characters
 let boy1 = "pramod"
 let boy2 = "nikhil"
 //i need to print --> nikhil is a friend of pramod
