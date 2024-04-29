@@ -1,7 +1,7 @@
-let name = "Amit"
-console.log(name.length)
-console.log(name[0])
-console.log(name[1])
+let title = "Amit"
+console.log(title.length)
+console.log(title[0])
+console.log(title[1])
 let friend = 'prakash'
 console.log(friend)
 //let myfriend = "Shubh' //never do it
