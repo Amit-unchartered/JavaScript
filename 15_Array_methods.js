@@ -23,4 +23,4 @@ console.log(num , f)
 
 //unshift() --> adds element to the beginning, returns new array length
 let g = num.unshift(15)
-console.log(g,num)
+console.log(num, g)
