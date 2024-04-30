@@ -20,8 +20,8 @@ let str2 = "Amit"
 console.log(str2.toUpperCase())
 
 //problem4
-let str3 = "Please give me Rs 1000"
-let amount = Number.parseInt(15) //changing the typeof amount from string to int
+let str3 = "Please give Rs 1000"
+let amount = Number.parseInt(str3.slice(15)) //changing the typeof amount from string to int
 console.log(amount)
 console.log(typeof amount) //it will be number since we have converted it from string to int
 
